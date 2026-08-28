@@ -1,5 +1,6 @@
 # Selenium End-to-End Testing — ate_1051_14
 
+**Name:** Hailemichale Lijalem  
 **Student ID:** ate_1051_14  
 **Course:** Automated Testing  
 
