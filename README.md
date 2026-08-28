@@ -2,11 +2,11 @@
 
 **Name:** Hailemichale Lijalem  
 **Student ID:** ate_1051_14  
-**Course:** Automated Testing  
+**Course:** Software Verification and Quality Assurance  
 
 ## About
 
-This is my individual homework for the Automated Testing course. I wrote end-to-end tests using Selenium WebDriver against the [Practice Software Testing Toolshop](https://practicesoftwaretesting.com).
+This is my individual homework for the Software Verification and Quality Assurance course. I wrote a Selenium automated test against the [Practice Software Testing Toolshop](https://practicesoftwaretesting.com).
 
 I chose this site because it has a login page, product search, and a product catalog that loads dynamically — which gave me enough to cover all the required test types without dealing with CAPTCHAs or bot blockers.
 
